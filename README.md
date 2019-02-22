@@ -1,4 +1,5 @@
 # fmri_batch_auto
-SPM12_fmri
+Matlab - SPM12_fmri
 
-Data pre-processing - Matlab
+Data pre-processing
+Batch
